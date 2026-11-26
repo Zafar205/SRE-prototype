@@ -1,0 +1,213 @@
+{
+  "mean_phone_error_rate": {
+    "1_teacher_mms": 0.519,
+    "2_nano_float": 0.539,
+    "3_nano_int8": 0.508
+  },
+  "sentences": [
+    {
+      "name": "greeting",
+      "text": "السلام علیکم، آپ کیسے ہیں؟",
+      "spoken": "السلام علیکم، آپ کیسے ہیں؟",
+      "ipa": "alsəlˈaːm alˈiːkəm\nˌaːp kˈeːseː hẽ",
+      "tokens": 26,
+      "seconds": {
+        "1_teacher_mms": 2.38,
+        "2_nano_float": 2.5,
+        "3_nano_int8": 2.51
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.45,
+        "2_nano_float": 0.35,
+        "3_nano_int8": 0.4
+      }
+    },
+    {
+      "name": "weather",
+      "text": "آج موسم بہت اچھا ہے، چلو باہر چلتے ہیں۔",
+      "spoken": "آج موسم بہت اچھا ہے، چلو باہر چلتے ہیں۔",
+      "ipa": "ˈaːɟ mˈoːsəm bˈahʊt ˈacʰaː hɛ\ncˈʌloː bˈaːhər cˈʌltˌeː hẽ",
+      "tokens": 43,
+      "seconds": {
+        "1_teacher_mms": 3.27,
+        "2_nano_float": 3.73,
+        "3_nano_int8": 3.71
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.485,
+        "2_nano_float": 0.576,
+        "3_nano_int8": 0.576
+      }
+    },
+    {
+      "name": "directions",
+      "text": "کیا آپ مجھے ریلوے اسٹیشن کا راستہ بتا سکتے ہیں؟",
+      "spoken": "کیا آپ مجھے ریلوے اسٹیشن کا راستہ بتا سکتے ہیں؟",
+      "ipa": "kjˈaː ˌaːp mˌʊɟʰeː rˈeːlʋeː ˌɪsʈeːʃˈan kaː rˈaːstˌa bˈʌtaː sˈʌktˌeː hẽ",
+      "tokens": 50,
+      "seconds": {
+        "1_teacher_mms": 3.58,
+        "2_nano_float": 3.54,
+        "3_nano_int8": 3.49
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.487,
+        "2_nano_float": 0.538,
+        "3_nano_int8": 0.564
+      }
+    },
+    {
+      "name": "capital",
+      "text": "پاکستان کا دارالحکومت اسلام آباد ہے۔",
+      "spoken": "پاکستان کا دارالحکومت اسلام آباد ہے۔",
+      "ipa": "pˌaːkɪstˈaːn kaː dˌaːraːlhˌʊkuːmˈat ˌɪslˈaːm aːbˈaːd hɛ",
+      "tokens": 40,
+      "seconds": {
+        "1_teacher_mms": 3.15,
+        "2_nano_float": 3.23,
+        "3_nano_int8": 3.21
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.394,
+        "2_nano_float": 0.424,
+        "3_nano_int8": 0.394
+      }
+    },
+    {
+      "name": "numbers",
+      "text": "میرے پاس 25 کتابیں اور 3 قلم ہیں۔",
+      "spoken": "میرے پاس پچیس کتابیں اور تین قلم ہیں۔",
+      "ipa": "mˈeːreː pˈaːs pəcˈiːs kɪtˈaːbẽː ɔr tˈiːn qˈʌləm hẽ",
+      "tokens": 39,
+      "seconds": {
+        "1_teacher_mms": 3.35,
+        "2_nano_float": 3.2,
+        "3_nano_int8": 3.16
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.467,
+        "2_nano_float": 0.567,
+        "3_nano_int8": 0.5
+      }
+    },
+    {
+      "name": "year-percent",
+      "text": "سال 2024 میں قیمتوں میں 15 فیصد اضافہ ہوا۔",
+      "spoken": "سال دو ہزار چوبیس میں قیمتوں میں پندرہ فیصد اضافہ ہوا۔",
+      "ipa": "sˈaːl dˈoː həzˈaːr coːbˈiːs mˈẽ qˈeːmtˌõː mˈẽ pˈʌndəra fiʂˈad ɪzˈaːfa hˈuːaː",
+      "tokens": 56,
+      "seconds": {
+        "1_teacher_mms": 4.1,
+        "2_nano_float": 4.46,
+        "3_nano_int8": 4.48
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.489,
+        "2_nano_float": 0.578,
+        "3_nano_int8": 0.6
+      }
+    },
+    {
+      "name": "cricket",
+      "text": "بچے اسکول کے میدان میں کرکٹ کھیل رہے ہیں۔",
+      "spoken": "بچے اسکول کے میدان میں کرکٹ کھیل رہے ہیں۔",
+      "ipa": "bˈʌceː ɪskˈuːl keː meːdˈaːn mˈẽ krˈɪkˌɪʈ kʰˈeːl rˈʌheː hẽ",
+      "tokens": 43,
+      "seconds": {
+        "1_teacher_mms": 2.93,
+        "2_nano_float": 3.09,
+        "3_nano_int8": 3.03
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.697,
+        "2_nano_float": 0.606,
+        "3_nano_int8": 0.606
+      }
+    },
+    {
+      "name": "tea",
+      "text": "مجھے چائے بہت پسند ہے لیکن کافی نہیں۔",
+      "spoken": "مجھے چائے بہت پسند ہے لیکن کافی نہیں۔",
+      "ipa": "mˌʊɟʰeː cˈaːeː bˈahʊt pəsˈʌnd hɛ lˈeːkɪn kˈaːfi nahˈiːn",
+      "tokens": 43,
+      "seconds": {
+        "1_teacher_mms": 3.64,
+        "2_nano_float": 3.51,
+        "3_nano_int8": 3.52
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.441,
+        "2_nano_float": 0.5,
+        "3_nano_int8": 0.529
+      }
+    },
+    {
+      "name": "short-command",
+      "text": "براہ کرم دروازہ بند کر دیں۔",
+      "spoken": "براہ کرم دروازہ بند کر دیں۔",
+      "ipa": "bˌaraːhˌeː karˈam dərʋˈaːzˌa bˈʌnd kar dˈẽ",
+      "tokens": 34,
+      "seconds": {
+        "1_teacher_mms": 2.06,
+        "2_nano_float": 2.2,
+        "3_nano_int8": 2.18
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.407,
+        "2_nano_float": 0.259,
+        "3_nano_int8": 0.222
+      }
+    },
+    {
+      "name": "loanwords",
+      "text": "یہ کمپیوٹر پروگرام موبائل فون پر بھی بہت تیزی سے چلتا ہے۔",
+      "spoken": "یہ کمپیوٹر پروگرام موبائل فون پر بھی بہت تیزی سے چلتا ہے۔",
+      "ipa": "jeːh kˌəmpeːˈoːʈər proɡrˈaːm moːbˈaɪl fˈoːn pˈʌr bʰˈiː bˈahʊt tˈeːzi seː cˈʌltˌaː hɛ",
+      "tokens": 63,
+      "seconds": {
+        "1_teacher_mms": 4.34,
+        "2_nano_float": 4.69,
+        "3_nano_int8": 4.68
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.5,
+        "2_nano_float": 0.58,
+        "3_nano_int8": 0.52
+      }
+    },
+    {
+      "name": "one-word",
+      "text": "شکریہ",
+      "spoken": "شکریہ",
+      "ipa": "ʃʊkrˈiːa",
+      "tokens": 8,
+      "seconds": {
+        "1_teacher_mms": 0.63,
+        "2_nano_float": 0.74,
+        "3_nano_int8": 0.74
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 1.0,
+        "2_nano_float": 1.0,
+        "3_nano_int8": 0.667
+      }
+    },
+    {
+      "name": "long-news",
+      "text": "محکمہ موسمیات کے مطابق اگلے تین دنوں میں لاہور، کراچی اور پشاور میں تیز بارش کا امکان ہے، اس لیے شہریوں کو احتیاط کرنے کی ہدایت کی گئی ہے۔",
+      "spoken": "محکمہ موسمیات کے مطابق اگلے تین دنوں میں لاہور، کراچی اور پشاور میں تیز بارش کا امکان ہے، اس لیے شہریوں کو احتیاط کرنے کی ہدایت کی گئی ہے۔",
+      "ipa": "meːhˈeːkma mˌoːsmiˈaːt keː mʊtˈaːbɪq ˈaɡlˌeː tˈiːn dɪnˈoːn mˈẽ laːhˈoːr\nkərˈaːci ɔr pˌɪʃaːʋˈar mˈẽ tˈeːz bˈaːrɪʃ kaː ˌɪmkˈaːn hɛ\nɪs lˈiːeː ʃˈɛhriˌõː kˈoː ɛhtjˈaːt kˌarneː ki hɪdˈaːjat ki ɡˈai hɛ",
+      "tokens": 144,
+      "seconds": {
+        "1_teacher_mms": 10.68,
+        "2_nano_float": 10.34,
+        "3_nano_int8": 10.26
+      },
+      "phone_error_rate": {
+        "1_teacher_mms": 0.409,
+        "2_nano_float": 0.487,
+        "3_nano_int8": 0.522
+      }
+    }
+  ]
+}
